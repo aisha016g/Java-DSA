@@ -15,6 +15,7 @@ public class next_permutation{
                 return 0;
             }
         });
+        //
         List <Integer> current=new ArrayList<>();
         for(int i:arr){
             current.add(i);
