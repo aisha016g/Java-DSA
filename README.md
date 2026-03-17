@@ -5,6 +5,7 @@ This repository contains my practice problems and implementations of Data Struct
 Topics covered:
 
 * Arrays
+* Day 7 - count subarray sum
 * Matrix
 * Hashing
 * Recursion
