@@ -6,6 +6,7 @@ Topics covered:
 
 * Arrays
 * Day 7 - count subarray sum
+* Day 8 - Find the leader
 * Matrix
 * Hashing
 * Recursion
