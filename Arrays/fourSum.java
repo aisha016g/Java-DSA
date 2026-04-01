@@ -9,7 +9,7 @@ public class fourSum {
                 for(int k=j+1;k<n;k++){
                     for(int l=k+1;l<n;l++){
                         long sum=(long)arr[i]+arr[j]+arr[k]+arr[l];
-                    if(sum==0){
+                    if(sum==0){ 
                         List<Integer>temp=new ArrayList<>();
                         temp.add(arr[i]);
                         temp.add(arr[j]);
