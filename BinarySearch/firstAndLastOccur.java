@@ -48,9 +48,18 @@ public class firstAndLastOccur {
         }
         return ans;
     }
-    pair<int,int>firstLastPos(vector<int>arr,int n,int k)
-    {
-        int lb=lower
+    
+    public int[] firstLastPos(int[] arr, int n, int k) {
+    int lb = lower(arr, n, k);
+    int ub = upper(arr, n, k);
+
+    // If element not present
+    if (lb == n || arr[lb] != k) {
+        return new int[]{-1, -1};
+    }
+
+    return new int[]{lb, ub - 1};
+
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
