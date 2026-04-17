@@ -56,7 +56,7 @@ return arr;
 //      object creation used to further call a function
         ZeroEnd sol=new ZeroEnd();
         // int[] result=sol.bruteForce(arr,n);
-        int[] result= sol.optimized(arr,n);
+         sol.optimized(arr,n);
         for(int i=0;i<n;i++)
         {
             System.out.print(arr[i]+" ");
