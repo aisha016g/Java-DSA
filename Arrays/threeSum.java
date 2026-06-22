@@ -1,4 +1,3 @@
-package sums;
 import java.util.*;
 
 public class threeSum {
