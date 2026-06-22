@@ -1,18 +1,35 @@
 # DSA in Java
 
-This repository contains my practice problems and implementations of Data Structures and Algorithms using Java.
+This repository contains my solutions to Data Structures and Algorithms problems solved in Java.
 
-Topics covered:
+## About
+
+* Solving problems from LeetCode and Striver A2Z Sheet
+* Focused on improving problem-solving and interview preparation
+* Organized topic-wise for easy revision
+
+## Topics Covered
 
 * Arrays
-* Day 7 - count subarray sum
-* Day 8 - Find the leader
-* Day 9- Rotate Image
-* Matrix
-* Hashing
-* Recursion
-* Sorting
-* Linked Lists
+* Binary Search
 * Trees
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Graphs
+* Dynamic Programming
 
-Goal: Improve problem-solving skills and maintain consistency in coding.
+## Language
+
+Java
+
+## Progress
+
+* 100+ Problems Solved
+* Currently Learning Trees and Graphs
+
+## Platform
+
+* LeetCode
+* HackerRank
+* Striver A2Z DSA Sheet
